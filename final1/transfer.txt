@@ -1,0 +1,43 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" href="style6.css">
+<style>
+background-color:pink
+</style>
+</head>
+<body>
+<div class="wrapper">
+<nav class="navbar">
+<ul>
+<li><a class="active" href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="contact1.html">Contact</a></li>
+<li><a href="feedback.html">Feedback</a></li>
+</ul>
+</nav>
+
+                       <div class="center">
+ <h2>Enter the receiver account number:</h2>
+ <center>
+                         
+                        <br>
+                
+                        <input style="font-size:30px;" type="text" id="fname" name="fname" value="">
+                       <h2>Enter the amount to be deposited:</h2>
+ <center>
+                         
+                        <br>
+                
+                        <input style="font-size:30px;" type="text" id="fname" name="fname" value="">
+                      
+                        <button>Submit</button>
+     </center>
+
+                        
+       </div>
+
+
+
+</html>

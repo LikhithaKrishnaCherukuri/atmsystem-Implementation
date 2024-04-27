@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image:url("1.jpg");
+}
+</style>
+</head>
+<body>
+<center>
+<div style="background-color:white; border-radius:60px; margin:30px; padding-bottom:5px">
+        <h1>Contact</h1>
+        <h2>If you have any queries,transactional issues please</h2>
+        <h3>Mail id</h3>
+        <h4>atm@gmail.com</h4>
+        <h3>Call us</h3>
+        <h4>+91 9087651234</h4>
+        <h4>+91 8765430981</h4>
+</div>
+<center>
+</body>
+</html>

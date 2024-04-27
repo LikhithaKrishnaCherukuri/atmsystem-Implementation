@@ -1,0 +1,33 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+<link rel="stylesheet" href="withdstyle.css">
+</style>
+</head>
+<body>
+<div class="wrapper">
+<nav class="navbar">
+<ul>
+<li><a class="active" href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="contact1.html">Contact</a></li>
+<li><a href="feedback.html">Feedback</a></li>
+</ul>
+</nav>
+
+                <div class="center">
+                          <br>
+                         <br>
+                         <h2 class="center1">Enter the amount to be deposited:</h2>
+                         <br>
+                         <br>
+                         <input class="center2" style="font-size:30px;" type="text" id="fname" name="fname" value="">
+                         <br>
+                         <br>
+                         <br>
+                         <button>Submit</button>
+                     </div>
+</body>
+</html>

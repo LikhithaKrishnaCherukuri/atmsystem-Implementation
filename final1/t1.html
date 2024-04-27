@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="transferstyle.css">
+</head>
+<body>
+<div class="wrapper">
+<nav class="navbar">
+<ul>
+<li><a href="choose.html" class="active" href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="cont.html">Contact</a></li>
+<li><a href="feed.html">Feedback</a></li>
+</ul>
+</nav>
+
+<div class="center">
+<br>
+<br>
+           <form method="post" action="where2.php">
+        
+            <center>
+              <br>
+              <input type="password" required name = "password">
+              <label>Password</label>
+              <br>
+            <br>
+          </center>
+                
+                      <h2>Enter the reciever bank username:</h2>
+                        <center>
+                        <br>
+                        <input style="font-size:20px;" type="text" required name="username1" value="">
+                         <br>
+                         <br>
+                        <h2>Enter the transactional amount:</h2>
+                        <br>
+                        <input style="font-size:20px;" type="text" required name="money" value="">
+                        <br>
+                        <h2 style="color:red">You does not have sufficient amount to transfer</h2>
+	      <br>
+        <input style = "background-color:peru; border-radius:10px;font-size:30px;height: 50px;width:20%;" type="submit" value="Submit">
+                        
+          </div>
+</div>
+</form>
+</body>
+</html>
